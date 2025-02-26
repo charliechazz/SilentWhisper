@@ -23,10 +23,10 @@ SilentWhisper es un sistema avanzado de detección y prevención de intrusiones 
 
 ## 📂 Estructura del Repositorio
 
-SilentWhisper/
-├── 📁 models/             # Modelos entrenados (.pkl)
-├── 📁 src/                # Código fuente IDS/IPS
-├── 📁 data/               # Datasets utilizados
-├── 📁 config/             # Configuración del sistema
-├── 📄 README.md           # Este archivo 📌
-├── 📄 requirements.txt    # Dependencias del proyecto
+- SilentWhisper/
+  - 📁 models/             # Modelos entrenados (.pkl)
+  - 📁 src/                # Código fuente IDS/IPS
+  - 📁 data/               # Datasets utilizados
+  - 📁 config/             # Configuración del sistema
+  - 📄 README.md           # Este archivo 📌
+  - 📄 requirements.txt    # Dependencias del proyecto
