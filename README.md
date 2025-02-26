@@ -8,7 +8,7 @@ SilentWhisper is an advanced **Intrusion Detection and Prevention System** (**ID
 
 ---
 
-🔹 **Key Features:**  
+🔹 ## Key Features:
 ✅ Real-time attack detection 🔥  
 ✅ Optimized **ML models** (LightGBM, KNN, Logistic Regression) 🤖  
 ✅ Custom rule integration for increased accuracy ⚡  
@@ -48,14 +48,14 @@ SilentWhisper is an advanced **Intrusion Detection and Prevention System** (**ID
 
 ---
 
-🛡️ Operation Modes
+## 🛡️ Operation Modes
 
-📡 IDS Mode (detection): Analyzes traffic and generates alerts.
-🛑 IPS Mode (prevention): Automatically blocks detected threats.
+📡 IDS Mode (detection): Analyzes traffic and generates alerts 
+🛑 IPS Mode (prevention): Automatically blocks detected threats 
 
 ---
 
-📢 Contributions
+## 📢 Contributions
 
 Contributions are welcome! 🛠️ You can open an issue or submit a pull request.
 
@@ -63,6 +63,6 @@ Contributions are welcome! 🛠️ You can open an issue or submit a pull reques
 
 ---
 
-⚠️ Disclaimer
+⚠️ ## Disclaimer
 
 This system is for educational and cybersecurity research purposes only. It should not be used in production environments without appropriate precautions.
