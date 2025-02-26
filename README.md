@@ -31,7 +31,6 @@ SilentWhisper is an advanced **Intrusion Detection and Prevention System** (**ID
   - 📁 models/             # Trained models (.pkl)
   - 📁 src/                # IDS/IPS source code
   - 📁 data/               # Datasets used
-  - 📁 config/             # System configuration
   - 📄 README.md           # This file 📌
   - 📄 requirements.txt    # Project dependencies
 
