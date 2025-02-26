@@ -1,32 +1,68 @@
 # 🔒 SilentWhisper  
-🚀 **Sistema IDS/IPS híbrido basado en machine learning y reglas para detectar y mitigar amenazas en red.**  
-
-## 📌 Descripción  
-SilentWhisper es un sistema avanzado de detección y prevención de intrusiones (**IDS/IPS**) que utiliza una combinación de **machine learning** y reglas de seguridad para identificar y bloquear amenazas en entornos de red.  
-
-🔹 **Características principales:**  
-✅ Detección de ataques en tiempo real 🔥  
-✅ Modelos de **ML optimizados** (LightGBM, KNN, Logistic Regression) 🤖  
-✅ Integración de reglas personalizadas para aumentar la precisión ⚡  
-✅ Respuesta automatizada ante ataques 🚨  
-✅ Análisis de tráfico de red con clasificación precisa 📊  
+🚀 **Hybrid IDS/IPS system based on machine learning and rules to detect and mitigate network threats.**  
 
 ---
 
-## ⚙️ Tecnologías Utilizadas  
-🛠️ **Lenguaje:** Python 🐍  
-📚 **Librerías principales:** scikit-learn, LightGBM, NumPy, Pandas  
-📡 **Análisis de tráfico:** Reglas de detección + Machine Learning  
-📁 **Modelos entrenados:** `.pkl` files para integración rápida  
+## 📌 Description  
+SilentWhisper is an advanced **Intrusion Detection and Prevention System** (**IDS/IPS**) that uses a combination of **machine learning** and security rules to identify and block threats in network environments.  
 
 ---
 
-## 📂 Estructura del Repositorio
+🔹 **Key Features:**  
+✅ Real-time attack detection 🔥  
+✅ Optimized **ML models** (LightGBM, KNN, Logistic Regression) 🤖  
+✅ Custom rule integration for increased accuracy ⚡  
+✅ Automated response to attacks 🚨  
+✅ Precise network traffic classification 📊  
+
+---
+
+## ⚙️ Technologies Used  
+🛠️ **Language:** Python 🐍  
+📚 **Main Libraries:** scikit-learn, LightGBM, NumPy, Pandas  
+📡 **Traffic Analysis:** Detection rules + Machine Learning  
+📁 **Trained Models:** `.pkl` files for quick integration  
+
+---
+
+## 📂 Repository Structure
 
 - SilentWhisper/
-  - 📁 models/             # Modelos entrenados (.pkl)
-  - 📁 src/                # Código fuente IDS/IPS
-  - 📁 data/               # Datasets utilizados
-  - 📁 config/             # Configuración del sistema
-  - 📄 README.md           # Este archivo 📌
-  - 📄 requirements.txt    # Dependencias del proyecto
+  - 📁 models/             # Trained models (.pkl)
+  - 📁 src/                # IDS/IPS source code
+  - 📁 data/               # Datasets used
+  - 📁 config/             # System configuration
+  - 📄 README.md           # This file 📌
+  - 📄 requirements.txt    # Project dependencies
+
+---
+
+## 🚀 Installation and Usage  
+1️⃣ Clone the repository  
+    git clone https://github.com/your-username/SilentWhisper.git
+    cd SilentWhisper
+2️⃣ Install dependencies
+    pip install -r requirements.txt
+3️⃣ Run the system
+    **pending**
+
+---
+
+🛡️ Operation Modes
+
+📡 IDS Mode (detection): Analyzes traffic and generates alerts.
+🛑 IPS Mode (prevention): Automatically blocks detected threats.
+
+---
+
+📢 Contributions
+
+Contributions are welcome! 🛠️ You can open an issue or submit a pull request.
+
+📬 Contact: If you have any questions, feel free to reach out at @charliechazz.
+
+---
+
+⚠️ Disclaimer
+
+This system is for educational and cybersecurity research purposes only. It should not be used in production environments without appropriate precautions.
