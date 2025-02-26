@@ -38,11 +38,14 @@ SilentWhisper is an advanced **Intrusion Detection and Prevention System** (**ID
 ---
 
 ## 🚀 Installation and Usage  
+
 1️⃣ **Clone the repository**
     git clone https://github.com/your-username/SilentWhisper.git
     cd SilentWhisper
+    
 2️⃣ **Install dependencies**
     pip install -r requirements.txt
+    
 3️⃣ **Run the system**
     **pending**
 
@@ -50,8 +53,9 @@ SilentWhisper is an advanced **Intrusion Detection and Prevention System** (**ID
 
 ## 🛡️ Operation Modes
 
-📡 **IDS Mode (detection):** Analyzes traffic and generates alerts 
-🛑 **IPS Mode (prevention):** Automatically blocks detected threats 
+📡 **IDS Mode (detection):** Analyzes traffic and generates alerts. 
+
+🛑 **IPS Mode (prevention):** Automatically blocks detected threats. 
 
 ---
 
