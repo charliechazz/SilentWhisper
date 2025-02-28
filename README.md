@@ -39,7 +39,7 @@ SilentWhisper is an advanced **Intrusion Detection and Prevention System** (**ID
 ## 🚀 Installation and Usage  
 
 1️⃣ **Clone the repository**
-    git clone https://github.com/your-username/SilentWhisper.git
+    git clone [https://github.com/your-username/SilentWhisper.git](https://github.com/charliechazz/SilentWhisper)
     cd SilentWhisper
     
 2️⃣ **Install dependencies**
@@ -72,4 +72,4 @@ This system is for educational and cybersecurity research purposes only. It shou
 
 ---
 
-⚠️ This project is subject to usage restrictions. Please review [Terms and Conditions][TERMS.md] before using it.
+⚠️ This project is subject to usage restrictions. Please review [Terms and Conditions](TERMS.md) before using it.
