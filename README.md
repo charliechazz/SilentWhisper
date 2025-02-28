@@ -72,4 +72,4 @@ This system is for educational and cybersecurity research purposes only. It shou
 
 ---
 
-⚠️ This project is subject to usage restrictions. Please review TERMS.md before using it.
+⚠️ This project is subject to usage restrictions. Please review [Terms and Conditions][TERMS.md] before using it.
